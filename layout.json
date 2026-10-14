@@ -1,0 +1,305 @@
+{
+  "version": 1,
+  "changes": {
+    "#home > h1:nth-of-type(1)": {
+      "styles": {
+        "textAlign": "left",
+        "translate": "-24.177px -1.0698px"
+      }
+    },
+    "#home > div:nth-of-type(1) > p:nth-of-type(1) > small:nth-of-type(1)": {
+      "styles": {
+        "translate": "1.8024334765625003px 3.4956585449218753px"
+      }
+    },
+    "#home > div:nth-of-type(1) > p:nth-of-type(1)": {
+      "styles": {
+        "translate": "0px 0px"
+      }
+    },
+    "#home > div:nth-of-type(1) > p:nth-of-type(1) > strong:nth-of-type(1)": {
+      "styles": {
+        "translate": "0.7043304470703124px 2.32458298828125px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(2)": {
+      "styles": {
+        "translate": "41.66143798828125px -7.618865258789063px",
+        "width": "729.65625px",
+        "height": "63.959509183533136px",
+        "maxWidth": "none",
+        "fontSize": "18.809973099008655px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(3)": {
+      "styles": {
+        "translate": "41.66143798828125px -10.305165258789062px",
+        "width": "729.65625px",
+        "height": "63.959509183533136px",
+        "maxWidth": "none",
+        "fontSize": "18.809973099008655px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(1)": {
+      "styles": {
+        "translate": "41.66143798828125px -4.932565258789063px",
+        "width": "729.65625px",
+        "height": "63.959509183533136px",
+        "maxWidth": "none",
+        "fontSize": "18.809973099008655px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3)": {
+      "styles": {
+        "translate": "41.66143798828125px -0.09141525878906265px",
+        "width": "729.65625px",
+        "height": "31.979754591766568px",
+        "maxWidth": "none",
+        "fontSize": "18.809973099008655px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2)": {
+      "styles": {
+        "translate": "41.66143798828125px 2.5949047412109376px",
+        "width": "729.65625px",
+        "height": "63.959509183533136px",
+        "maxWidth": "none",
+        "fontSize": "18.809973099008655px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1)": {
+      "styles": {
+        "translate": "41.66143798828125px 5.2812347412109375px",
+        "width": "729.65625px",
+        "height": "63.959509183533136px",
+        "maxWidth": "none",
+        "fontSize": "18.809973099008655px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > strong:nth-of-type(1)": {
+      "styles": {
+        "translate": "64.19268798828125px 3.06744384765625px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > strong:nth-of-type(1)": {
+      "styles": {
+        "translate": "64.19268798828125px 0px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)": {
+      "styles": {
+        "translate": "64.19269580078122px -0.0001px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(1)": {
+      "styles": {
+        "translate": "0.000008764648437686873px 1.739572505859375px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)": {
+      "styles": {
+        "translate": "64.1927px -7.99999px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)": {
+      "styles": {
+        "translate": "0px -0.5208225250244141px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1)": {
+      "styles": {
+        "translate": "61.6875px 0px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(2)": {
+      "styles": {
+        "translate": "16.224010517578126px 0px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(3)": {
+      "styles": {
+        "translate": "0px 0px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)": {
+      "styles": {
+        "translate": "15.847640991210938px 4.833355313110352px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(5)": {
+      "styles": {
+        "translate": "15.048171991210937px 4.833325313110351px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)": {
+      "styles": {
+        "translate": "62.94010600585938px 4.83328px"
+      }
+    },
+    "#about > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(4)": {
+      "styles": {
+        "translate": "64.1927px 4.83328px"
+      }
+    },
+    "#about > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > small:nth-of-type(1)": {
+      "styles": {
+        "fontSize": "11px",
+        "translate": "0px 0px"
+      }
+    },
+    "#about > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > small:nth-of-type(1)": {
+      "styles": {
+        "fontSize": "11px",
+        "translate": "0px 0px"
+      }
+    },
+    "#about > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > small:nth-of-type(1)": {
+      "styles": {
+        "fontSize": "11px",
+        "translate": "0px 0px"
+      }
+    },
+    "#about > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(4) > small:nth-of-type(1)": {
+      "styles": {
+        "fontSize": "11px",
+        "translate": "0px -0.6666770135803223px"
+      }
+    },
+    "#about > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(5) > small:nth-of-type(1)": {
+      "styles": {
+        "translate": "0px 0px",
+        "fontSize": "11px"
+      }
+    },
+    "#about > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(6) > small:nth-of-type(1)": {
+      "styles": {
+        "fontSize": "11px",
+        "translate": "0px -0.6666665077209473px"
+      }
+    },
+    "#about > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(7) > small:nth-of-type(1)": {
+      "styles": {
+        "fontSize": "11px",
+        "translate": "0px -0.6666665077209473px"
+      }
+    },
+    "#about > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(8) > small:nth-of-type(1)": {
+      "styles": {
+        "fontSize": "11px",
+        "translate": "0px 0px"
+      }
+    },
+    "#about > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(9) > small:nth-of-type(1)": {
+      "styles": {
+        "fontSize": "11px",
+        "translate": "0px -0.6666665077209473px"
+      }
+    },
+    "#about > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(10) > small:nth-of-type(1)": {
+      "styles": {
+        "fontSize": "11px",
+        "translate": "0px -0.6666665077209473px"
+      }
+    },
+    "#about > div:nth-of-type(3) > div:nth-of-type(1) > span:nth-of-type(1)": {
+      "styles": {
+        "fontSize": "12px"
+      }
+    },
+    "#projects > div:nth-of-type(1) > h2:nth-of-type(1)": {
+      "styles": {
+        "translate": "0px -45.5479736328125px"
+      }
+    },
+    "#projects > div:nth-of-type(1) > a:nth-of-type(1)": {
+      "styles": {
+        "translate": "0px -45.5479736328125px"
+      }
+    },
+    "#projects > div:nth-of-type(1) > a:nth-of-type(2)": {
+      "styles": {
+        "translate": "0px -45.5479736328125px"
+      }
+    },
+    "#projects > div:nth-of-type(1) > a:nth-of-type(3)": {
+      "styles": {
+        "translate": "0px -45.5479736328125px"
+      }
+    },
+    "#projects > div:nth-of-type(1) > a:nth-of-type(4)": {
+      "styles": {
+        "translate": "0px -45.5479736328125px"
+      }
+    },
+    "#projects > div:nth-of-type(1) > svg:nth-of-type(1)": {
+      "styles": {
+        "translate": "0px -45.5479736328125px"
+      }
+    },
+    "#video > div:nth-of-type(1) > img:nth-of-type(1)": {
+      "styles": {
+        "translate": "0.3332519403953552px 72.1217099609375px"
+      }
+    },
+    "#video > div:nth-of-type(2) > p:nth-of-type(1)": {
+      "styles": {
+        "fontFamily": "",
+        "fontSize": "44px",
+        "translate": "0.333252px -8.718700585937501px"
+      }
+    },
+    "#video > div:nth-of-type(2) > span:nth-of-type(1)": {
+      "styles": {
+        "fontSize": "30px"
+      }
+    },
+    "#visual > div:nth-of-type(7) > div:nth-of-type(1) > button:nth-of-type(1) > span:nth-of-type(1)": {
+      "styles": {
+        "translate": "82.6771240234375px -47.33331298828125px"
+      },
+      "hidden": true
+    },
+    "[data-layout-added=\"object-73fa6f3f-7581-4a5e-863e-70ff3c96a38a\"]": {
+      "styles": {
+        "translate": "579.3854038391113px 86.36466799926758px",
+        "width": "67.5626220703125px",
+        "height": "49.13568119928429px",
+        "maxWidth": "none"
+      }
+    },
+    "#visual > div:nth-of-type(7) > div:nth-of-type(1) > button:nth-of-type(1) > small:nth-of-type(1)": {
+      "styles": {
+        "fontSize": "19px",
+        "translate": "1.8072662353515625px 0px"
+      },
+      "text": "点击查看项目详情"
+    },
+    "#photo > div:nth-of-type(2) > div:nth-of-type(1) > img:nth-of-type(1)": {
+      "styles": {}
+    },
+    "#photo > div:nth-of-type(1) > img:nth-of-type(1)": {
+      "styles": {
+        "translate": "-68.83337288818359px -69.2916px"
+      }
+    },
+    "#footer > div:nth-of-type(1) > h2:nth-of-type(1)": {
+      "styles": {
+        "translate": "0.8332903569085938px -2.888621875px",
+        "fontSize": "354px"
+      },
+      "text": "Thanks"
+    },
+    "#visual > div:nth-of-type(3) > div:nth-of-type(2) > h4:nth-of-type(1) > span:nth-of-type(1)": {
+      "hidden": true
+    },
+    "#visual > div:nth-of-type(3) > div:nth-of-type(2) > h4:nth-of-type(1)": {
+      "styles": {
+        "translate": "-0.000024741210937762048px -8.73888716796875px"
+      }
+    }
+  },
+  "added": [],
+  "exportedAt": "2026-10-13T04:15:39.474Z",
+  "groups": [],
+  "designWidth": 1400
+}
